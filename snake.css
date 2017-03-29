@@ -1,0 +1,37 @@
+
+.p1{
+	display: block;
+	height: 133px;
+	width: 376px;
+	font-size: 20px;
+	border-radius: 10px;
+	margin: 40px auto;
+	background-image: url(photo/head.jpg);
+	text-align: center;
+}
+.p2{
+	color: blue;
+}
+body{
+	text-align: center;
+	background-image: url(photo/back4.jpg);
+	background-size: 100% 100%;
+	color: blue;
+}
+canvas{
+	margin-top: 5px;
+	height: 300px;
+	width: 600px;
+	background-color: white;
+}
+button{
+	background-color: white;
+	font-size: 15px;
+	height: 25px;
+	width: 100px;
+	border-radius: 6px;
+}
+
+.menu{
+	margin-top: 7px;
+}
